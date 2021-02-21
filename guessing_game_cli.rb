@@ -9,6 +9,7 @@
   else
     puts "Sorry! The computer guessed #{rando}."
   end
+end 
 
   
 
